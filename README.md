@@ -41,9 +41,7 @@
 ---
 
 ## 🌐 Servers I'm Developing For  
-🔹 [Minecraft Germany(Main)](https://discord.gg/PHaz6uCFWH)  
-🔹 [Ciffe SMP](https://discord.gg/5yH597JC6G)  
-🔹 [The GOOD Minecraft Anarchy Server](https://discord.gg/m8F8sesGnc)  
+🔹 [TradiaSMP(Main)](tradiasmp.com)  
 
 ---
 
